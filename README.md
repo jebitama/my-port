@@ -1,26 +1,4 @@
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Portfolio: Cara
-</h1>
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the MIT license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-  <a href="https://app.netlify.com/sites/portfolio-cara/deploys">
-      <img src="https://api.netlify.com/api/v1/badges/88bbaef1-6f83-4894-8acd-e6512ff39265/deploy-status" alt="Netlify Status" />
-    </a>
-</p>
-
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
 [**Demo Website**](https://jebitamami.netlify.com)
 
@@ -37,7 +15,7 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 Use the Gatsby CLI to create a new site, specifying this project
 
 ```sh
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-cara
+gatsby new project-name 
 ```
 
 2. **Start developing.**
@@ -53,7 +31,7 @@ gatsby develop
 
 Your site is now running at `http://localhost:8000`!
 
-If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can checkout this [shorter](https://www.gatsbyjs.org/docs/themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.org/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
+If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can checkout this [shorter](https://www.gatsbyjs.org/docs/themes/using-a-gatsby-theme/) 
 
 ## 📝 Using and modifying this starter
 
@@ -80,10 +58,6 @@ This project is my entry to Adobe's #ChallengeYourPerspective contest.
 ### Change your `static` folder
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
-
-## 🤔 Questions or problems?
-
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
 
 ## 🎓 Learning Gatsby
 
