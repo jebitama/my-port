@@ -22,9 +22,7 @@
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-[**Demo Website**](https://cara.lekoarts.de)
-
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
+[**Demo Website**](https://jebitamami.netlify.com)
 
 ## ✨ Features
 
@@ -33,8 +31,6 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 - CSS Animations on Shapes
 
 ## 🚀 Getting Started
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-cara) [![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-portfolio-cara/tree/master/)
 
 1. **Create a Gatsby site.**
 
@@ -102,11 +98,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 - **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
-
-## 🌟 Supporting me
-
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
-
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts)!
-
-If you want to hire me for **contract/freelance work**, you can do so! [Get in touch with me!](https://www.lekoarts.de/en/contact)
